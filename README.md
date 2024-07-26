@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://github.com/Sieglindevwb/Sieglindevwb/assets/146928269/a74ed4fb-6663-413c-9211-2b2322a2f93a"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F73A82&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi%2C+I'm+Sieglinde!;+Junior+Full+Stack+Developer+and+catlover+%F0%9F%90%B1" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
 💼 Fullstack Developer • BeCode student </br>
-💻 Laravel Magic • React </br>
+💻 Laravel Magic • Vue.js </br>
 🎮 Music • Games • Design • Anime • Code • Books • Art </br>
 😸 Cats • Churros • Coffee Breaks </br>
 </p>
